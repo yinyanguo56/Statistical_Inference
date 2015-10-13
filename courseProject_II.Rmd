@@ -33,7 +33,7 @@ t.test(OJ,VC, var.equal=TRUE, paired=FALSE)
 t.test(ToothGrowth$len~ToothGrowth$supp)
 ```
 ## conclusion:
-  Tooth len is significant different between supp(OJ) and sup(VC) with given alpha.
+  Tooth len is not significant different between supp(OJ) and sup(VC) with given alpha.
 
 ## explore  tooth growth by dose    
 ```{r projectII-3}
